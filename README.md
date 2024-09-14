@@ -7,8 +7,6 @@ This project will explore the practical application of Markov chains – a branc
 
 ## Description of the project
 
-There are three ipynb files: Ising_model (Modeling ferromagnetism in a crystal lattice), distributions_model (modeling distributions that are difficult to simulate using classical statistical methods), text_decoder (application of Marcov Chains in text decoding). The mathematical basis and algorithms are given in the files before the code.  
-
-The text file Soliaris.txt is cleared of unnecessary characters. This file is necessary to Run text_decoder.ipynb. However, you can download any book in txt format and clear it with the usage of commented code.
+There are two ipynb files: Ising_model (Modeling ferromagnetism in a crystal lattice) and distributions_model (modeling distributions that are difficult to simulate using classical statistical methods). The mathematical basis and algorithms are given in the files before the code.  
 
 *Theoretical material was created with the usage of IPT NTUU KPI lectures.*
